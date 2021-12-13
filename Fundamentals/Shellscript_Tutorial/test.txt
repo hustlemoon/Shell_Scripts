@@ -1,0 +1,4 @@
+hello my name is joonha lee
+I am testing a line reader that reads the text from this test.txt file
+and outputs onto the terminal
+thanks for coming!
