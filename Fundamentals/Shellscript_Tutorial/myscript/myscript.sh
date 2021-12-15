@@ -135,6 +135,6 @@ sayHello "Joonha" "21"
 
 # CREATE FOLDER AND WRITE TO A FILE
 mkdir Hello
-touch "hello/world.txt"
+#touch "hello/world.txt"
 echo "Hello World" >> "hello/world.txt"
 echo "Created hello/world.txt"
